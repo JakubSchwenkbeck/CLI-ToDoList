@@ -13,7 +13,7 @@ A command-line todo list application written in Go. Manage tasks with commands t
 ## Requirements
 
 - Go 1.18+
-- Windows, macOS, or Linux
+- Windows
 
 ## Setup
 
