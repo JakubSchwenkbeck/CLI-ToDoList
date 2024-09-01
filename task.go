@@ -8,6 +8,8 @@ import (
 	"os"
 )
 
+var index = 0
+
 const filePath = "data.json"
 
 type Task struct {
