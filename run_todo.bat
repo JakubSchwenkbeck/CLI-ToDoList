@@ -9,4 +9,4 @@ if %errorlevel% neq 0 (
 )
 
 REM Run the Go application with the provided arguments
-go run main.go task.go %*
+go run todo_list.go task.go %*
